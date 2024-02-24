@@ -1,1 +1,1 @@
-echo
+echo "Hi! You have a RIF virus! (This is a test message)"
